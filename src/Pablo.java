@@ -4,25 +4,40 @@
  * and open the template in the editor.
  */
 
-/**
- * 
- * @author Alice
+/** 
+ * Objetivo: Esta classe tem como objetivo de imprimir informações sobre o professor Pablo 
+ * @author Alice/Herlmanoel
  * @since 06/08/20019
+ * Última alteração 14/08/2019
  */
 public class Pablo {
      String Formação;
-    
+     /**
+     * Objetivo executar a classe
+     * @param args array 
+     * Imprime "Pablo"
+     */
     public static void main(String[] args) {
-        System.out.println("");
-    }
-    
+       String professor= "Pablo";
+         System.out.println(professor);
+    }//Fim do main()
+
+    /**
+         * Método para retornar Formação
+         *
+         * @return String
+         */
      public String getFormação (){
          return Formação;
-        }
+        }//Fim do getFormação
     
      public void setMateria(String Formação){
       this.Formação =  Formação;
-     }
+     /**
+         * @return Metodo para retorno da Formação
+         * @param Formação String 
+         */
+    } //Fim do setFormação
      
     
 }
