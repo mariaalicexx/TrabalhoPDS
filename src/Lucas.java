@@ -16,8 +16,9 @@ public class Lucas {
 
     /**
      * Objetivo executar a classe
-     * @param args array 
+     * @param args array
      * Imprime "Lucas"
+     * 
      */
     public static void main(String[] args) {
        

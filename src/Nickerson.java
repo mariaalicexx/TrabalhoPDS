@@ -16,6 +16,7 @@ public class Nickerson {
      * Objetivo executar a classe
      * @param args array 
      * Imprime "Nickerson"
+     * 
      */
     public static void main(int[] args) {
          String professor= "Nickerson";
