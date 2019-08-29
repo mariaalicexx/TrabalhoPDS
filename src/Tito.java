@@ -16,7 +16,6 @@ public class Tito {
      * Objetivo executar a classe
      * @param args array 
      * Imprime "Tito"
-     * 
      */
     public static void main(String[] args) {
        String professor= "Tito";

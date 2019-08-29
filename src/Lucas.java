@@ -16,13 +16,12 @@ public class Lucas {
 
     /**
      * Objetivo executar a classe
-     * @param args array
+     * @param args array 
      * Imprime "Lucas"
-     * 
      */
     public static void main(String[] args) {
        
-        String professor= "Lucas";
+        String professor = "Lucas";
          System.out.println(professor);
     }//Fim do main()
 /**
